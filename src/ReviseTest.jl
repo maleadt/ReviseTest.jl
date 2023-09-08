@@ -1,5 +1,5 @@
 module ReviseTest
 
-test() = 1
+test() = 2
 
 end # module ReviseTest
